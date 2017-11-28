@@ -1,0 +1,26 @@
+baseurl = "https://vvelikodny.github.io/"
+title = "Vitaly's Blog"
+copyright = "Copyright &copy; 2017 - Vitaly Velikodny"
+canonifyurls = true
+
+theme = "kiera"
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Vitaly V."
+    github = "vvelikodny"
+    gitlab = "vvelikodny"
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = ""
+    stackoverflow = "vvelikodny"
+
+[params]
+    tagline = "A Hugo theme for creative and technical writing"
+
+
