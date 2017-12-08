@@ -1,3 +1,13 @@
+.title {
+  text-align: center;
+}
+
+.avatar {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+}
+
 body {
   margin: 0;
   padding: 0;

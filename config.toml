@@ -12,15 +12,17 @@ pygmentsCodeFences = true
 
 [author]
     name = "Vitaly V."
+    avatar = "/img/avatar.png"
     github = "vvelikodny"
     gitlab = "vvelikodny"
-    linkedin = ""
+    linkedin = "vvelikodny"
     facebook = ""
     twitter = ""
     instagram = ""
-    stackoverflow = "vvelikodny"
+    stackoverflow = "/1653085/vvelikodny"
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "Vitaly's blog for creative and technical writing"
+
 
 
