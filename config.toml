@@ -12,7 +12,7 @@ summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
-#publishDir = "docs"
+publishDir = "docs"
 
 [author]
     name = "Vitaly V."
