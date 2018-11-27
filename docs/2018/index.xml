@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018s on Vitaly&#39;s Blog</title>
+    <link>https://vvelikodny.github.io/2018/</link>
+    <description>Recent content in 2018s on Vitaly&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Vitaly Velikodny</copyright>
+    <lastBuildDate>Mon, 26 Nov 2018 01:04:54 +0300</lastBuildDate>
+    
+	<atom:link href="https://vvelikodny.github.io/2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Manage Time</title>
+      <link>https://vvelikodny.github.io/2018/worldtimebuddy/</link>
+      <pubDate>Mon, 26 Nov 2018 01:04:54 +0300</pubDate>
+      
+      <guid>https://vvelikodny.github.io/2018/worldtimebuddy/</guid>
+      <description>Hello! werwerewr</description>
+    </item>
+    
+  </channel>
+</rss>
