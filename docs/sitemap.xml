@@ -18,12 +18,25 @@
   </url>
   
   <url>
+    <loc>https://velikodny.com/tags/hello/</loc>
+    <lastmod>2017-12-08T01:27:54+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://velikodny.com/tags/</loc>
+    <lastmod>2017-12-08T01:27:54+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://velikodny.com/</loc>
+    <lastmod>2017-12-08T01:27:54+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://velikodny.com/tags/vvelikodny/</loc>
     <lastmod>2017-12-08T01:27:54+03:00</lastmod>
     <priority>0</priority>
   </url>
