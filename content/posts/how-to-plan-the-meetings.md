@@ -5,7 +5,7 @@ draft: true
 tags: [management, time, tools, worldtimebuddy]
 ---
 
-Programming is a huge amount of tasks from super insteresting and complex to which we can only call routine.
+Programming is a huge amount of tasks from super interesting and complex to which we can only call routine.
  
 Today I will tell you how I plan my international meetings.
 
