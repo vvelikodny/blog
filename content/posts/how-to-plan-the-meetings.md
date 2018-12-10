@@ -22,4 +22,4 @@ especially at the beginning of work is not you are interested at all.
 In my pocket I have some tools and today I will show you one which helps me in every day planning of international 
 meetings without headache. Here it is 
  
- <https://worldtimebuddy.com>
+<https://worldtimebuddy.com>
