@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://velikodny.com/posts/</loc>
-    <lastmod>2017-12-08T01:27:54+03:00</lastmod>
+    <lastmod>2018-11-27T01:04:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://velikodny.com/posts/how-to-plan-the-meetings/</loc>
+    <lastmod>2018-11-27T01:04:54+03:00</lastmod>
   </url>
   
   <url>
@@ -24,14 +29,44 @@
   </url>
   
   <url>
+    <loc>https://velikodny.com/tags/management/</loc>
+    <lastmod>2018-11-27T01:04:54+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://velikodny.com/tags/project/</loc>
+    <lastmod>2018-11-27T01:04:54+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://velikodny.com/tags/</loc>
     <lastmod>2017-12-08T01:27:54+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://velikodny.com/tags/time/</loc>
+    <lastmod>2018-11-27T01:04:54+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://velikodny.com/tags/tools/</loc>
+    <lastmod>2018-11-27T01:04:54+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://velikodny.com/</loc>
-    <lastmod>2017-12-08T01:27:54+03:00</lastmod>
+    <lastmod>2018-11-27T01:04:54+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://velikodny.com/tags/worldtimebuddy/</loc>
+    <lastmod>2018-11-27T01:04:54+03:00</lastmod>
     <priority>0</priority>
   </url>
   

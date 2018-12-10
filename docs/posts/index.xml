@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Vitaly&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Vitaly Velikodny</copyright>
-    <lastBuildDate>Fri, 08 Dec 2017 01:27:54 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 27 Nov 2018 01:04:54 +0300</lastBuildDate>
     
 	<atom:link href="https://velikodny.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Everyday Buddy to Manage International Calls</title>
+      <link>https://velikodny.com/posts/how-to-plan-the-meetings/</link>
+      <pubDate>Tue, 27 Nov 2018 01:04:54 +0300</pubDate>
+      
+      <guid>https://velikodny.com/posts/how-to-plan-the-meetings/</guid>
+      <description>Project Management is a huge amount of tasks from super interesting to routine ones. To be effective, I always try to optimize my workflow, and you should. Many people ignore it to try to save some time today, but really don&amp;rsquo;t know how much time and resources they will save tomorrow.</description>
+    </item>
     
     <item>
       <title>Hello, World!</title>
