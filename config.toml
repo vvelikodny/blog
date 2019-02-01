@@ -1,6 +1,6 @@
 baseurl = "https://velikodny.com/"
 title = "Vitaly's Blog"
-copyright = "Copyright &copy; 2018 - Vitaly Velikodny"
+copyright = "Copyright &copy; 2019 - Vitaly Velikodny"
 canonifyurls = true
 
 disqusShortname = "vvelikodny"
