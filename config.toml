@@ -24,6 +24,7 @@ publishDir = "docs"
     twitter = ""
     instagram = ""
     stackoverflow = "/1653085/vvelikodny"
+    email = "vvelikodny@gmail.com"
 
 [params]
     tagline = "Vitaly's Blog for Creative and Technical Writing"
