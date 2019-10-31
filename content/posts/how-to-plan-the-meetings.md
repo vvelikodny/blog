@@ -5,10 +5,11 @@ draft: false
 tags: [project, management, time, tools, worldtimebuddy]
 ---
 
-Project Management is a huge amount of tasks from super interesting to routine ones. To be effective, I always try to 
-optimize my workflow, and you should. Many people ignore it to try to save some time today, but really don't know how
-much time and energy they will save tomorrow. I think the more professional the programmer the more he uses hotkeys,
-scripts and different tools to optimize his work.
+Project Management is a huge amount of tasks from super interesting to routine ones.
+To be effective, I always try to optimize my workflow, and you should.
+Many people ignore it to try to save some time today, but really don't know how much time and energy they will save tomorrow.
+I think than the programmer more professional that the more hotkeys,
+scripts and different tools he uses to optimize his work.
 
 As a Project Manager and Programmer I work a lot with foreign customers that bring some nuances. The main thing is you 
 should be well organized. If you want to be competitive on world IT market you should be super organized!
