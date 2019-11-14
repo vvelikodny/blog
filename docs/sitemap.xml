@@ -13,8 +13,19 @@
   </url>
   
   <url>
+    <loc>https://velikodny.com/about-me/</loc>
+    <lastmod>2017-12-08T01:27:54+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://velikodny.com/posts/hello-world/</loc>
     <lastmod>2017-12-08T01:27:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://velikodny.com/tags/about/</loc>
+    <lastmod>2017-12-08T01:27:54+03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

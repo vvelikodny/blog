@@ -15,7 +15,7 @@ pygmentsCodeFences = true
 publishDir = "docs"
 
 [author]
-    name = "Vitaly V."
+    name = "Vitaly Velikodnyi"
     avatar = "/img/avatar.png"
     github = "vvelikodny"
     gitlab = "vvelikodny"
@@ -29,5 +29,14 @@ publishDir = "docs"
 [params]
     tagline = "Vitaly's Blog for Creative and Technical Writing"
     meta = "false"
+    css = ["css/custom.css"]
 
+
+[menu]
+  [[menu.main]]
+    identifier = "about-me"
+    name = "About me"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about-me"
+    weight = 100
 

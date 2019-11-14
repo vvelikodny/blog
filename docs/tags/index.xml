@@ -5,8 +5,8 @@
     <link>https://velikodny.com/tags/</link>
     <description>Recent content in Tags on Vitaly&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>vvelikodny@gmail.com (Vitaly V.)</managingEditor>
-    <webMaster>vvelikodny@gmail.com (Vitaly V.)</webMaster>
+    <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
+    <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
     <copyright>Copyright &amp;copy; 2019 - Vitaly Velikodny</copyright>
     <lastBuildDate>Fri, 08 Dec 2017 01:27:54 +0300</lastBuildDate>
     
@@ -14,10 +14,19 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://velikodny.com/tags/about/</link>
+      <pubDate>Fri, 08 Dec 2017 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hello</title>
       <link>https://velikodny.com/tags/hello/</link>
       <pubDate>Fri, 08 Dec 2017 01:27:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly V.)</author>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/tags/hello/</guid>
       <description></description>
     </item>
@@ -26,7 +35,7 @@
       <title>Management</title>
       <link>https://velikodny.com/tags/management/</link>
       <pubDate>Mon, 10 Dec 2018 01:04:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly V.)</author>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/tags/management/</guid>
       <description></description>
     </item>
@@ -35,7 +44,7 @@
       <title>Project</title>
       <link>https://velikodny.com/tags/project/</link>
       <pubDate>Mon, 10 Dec 2018 01:04:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly V.)</author>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/tags/project/</guid>
       <description></description>
     </item>
@@ -44,7 +53,7 @@
       <title>Time</title>
       <link>https://velikodny.com/tags/time/</link>
       <pubDate>Mon, 10 Dec 2018 01:04:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly V.)</author>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/tags/time/</guid>
       <description></description>
     </item>
@@ -53,7 +62,7 @@
       <title>Tools</title>
       <link>https://velikodny.com/tags/tools/</link>
       <pubDate>Mon, 10 Dec 2018 01:04:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly V.)</author>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/tags/tools/</guid>
       <description></description>
     </item>
@@ -62,7 +71,7 @@
       <title>Worldtimebuddy</title>
       <link>https://velikodny.com/tags/worldtimebuddy/</link>
       <pubDate>Mon, 10 Dec 2018 01:04:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly V.)</author>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/tags/worldtimebuddy/</guid>
       <description></description>
     </item>
