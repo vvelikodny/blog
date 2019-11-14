@@ -11,7 +11,7 @@ Many people ignore it to try to save some time today, but really don't know how 
 I think than the programmer more professional that the more hotkeys,
 scripts and different tools he uses to optimize his work.
 
-Project Manager should be well organized. As a **project Manager** and **programmer** I work a lot with foreign customers that bring some nuances.
+Project Manager should be well organized. As a **Project Manager** and **Software Developer** at **[Junte](https://junte.it)**. I work a lot with foreign customers that bring some nuances.
 Since you want to be competitive on the world IT market you should be super organized!
 
 Assigning interviews, coordinating schedules and strict adherence to arrangements are everyday things to do. When client

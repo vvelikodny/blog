@@ -5,8 +5,8 @@
     <link>https://velikodny.com/</link>
     <description>Recent content on Vitaly&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>vvelikodny@gmail.com (Vitaly V.)</managingEditor>
-    <webMaster>vvelikodny@gmail.com (Vitaly V.)</webMaster>
+    <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
+    <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
     <copyright>Copyright &amp;copy; 2019 - Vitaly Velikodny</copyright>
     <lastBuildDate>Mon, 10 Dec 2018 01:04:54 +0300</lastBuildDate>
     
@@ -17,16 +17,25 @@
       <title>My Everyday International Calls Buddy</title>
       <link>https://velikodny.com/posts/how-to-plan-the-meetings/</link>
       <pubDate>Mon, 10 Dec 2018 01:04:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly V.)</author>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/posts/how-to-plan-the-meetings/</guid>
       <description>Project Management is a huge amount of tasks from super interesting to routine ones. To be effective, I always try to optimize my workflow, and you should. Many people ignore it to try to save some time today, but really don&amp;rsquo;t know how much time and energy they will save tomorrow.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://velikodny.com/about-me/</link>
+      <pubDate>Fri, 08 Dec 2017 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/about-me/</guid>
+      <description>I’m Vitaly Velikodnyi (RU: Виталий Великодный), a programmer. In case I wrote bad code and you want to kill me, please, notice at the avatar above to understand how I look like.</description>
     </item>
     
     <item>
       <title>Hello, World!</title>
       <link>https://velikodny.com/posts/hello-world/</link>
       <pubDate>Fri, 08 Dec 2017 01:27:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly V.)</author>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/posts/hello-world/</guid>
       <description>Hello! My name is Vitaly. It&amp;rsquo;s my first post here just to say &amp;ldquo;hello&amp;rdquo; to all of you guys: humans and robots! I will write here for humans, but if you are a robot you are welcome too.</description>
     </item>
