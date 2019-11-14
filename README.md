@@ -1,1 +1,1 @@
-This is my blog: https://velikodny.com
+This is the source code of my blog: https://velikodny.com
