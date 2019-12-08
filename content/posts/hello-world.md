@@ -1,6 +1,6 @@
 ---
 title: "Hello, World!"
-date: 2017-12-08T01:27:54+03:00
+date: 2018-12-08T01:27:54+03:00
 draft: false
 tags: [hello]
 ---

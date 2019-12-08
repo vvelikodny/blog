@@ -1,6 +1,6 @@
 ---
 title: "My Everyday International Calls Buddy"
-date: 2018-12-10T01:04:54+03:00
+date: 2019-12-08T01:04:54+03:00
 draft: false
 tags: [project, management, time, tools, worldtimebuddy]
 ---

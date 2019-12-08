@@ -8,7 +8,7 @@
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
     <copyright>Copyright &amp;copy; 2019 - Vitaly Velikodny</copyright>
-    <lastBuildDate>Fri, 08 Dec 2017 01:27:54 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 08 Dec 2018 01:27:54 +0300</lastBuildDate>
     
 	<atom:link href="https://velikodny.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Hello, World!</title>
       <link>https://velikodny.com/posts/hello-world/</link>
-      <pubDate>Fri, 08 Dec 2017 01:27:54 +0300</pubDate>
+      <pubDate>Sat, 08 Dec 2018 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/posts/hello-world/</guid>
       <description>Hello! My name is Vitaly. It&amp;rsquo;s my first post here just to say &amp;ldquo;hello&amp;rdquo; to all of you guys: humans and robots! I will write here for humans, but if you are a robot you are welcome too.</description>
