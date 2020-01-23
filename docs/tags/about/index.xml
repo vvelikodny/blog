@@ -8,7 +8,7 @@
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
     <copyright>Copyright &amp;copy; 2019 - Vitaly Velikodny</copyright>
-    <lastBuildDate>Fri, 08 Dec 2017 01:27:54 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 01:27:54 +0300</lastBuildDate>
     
 	<atom:link href="https://velikodny.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,10 +16,11 @@
     <item>
       <title>About me</title>
       <link>https://velikodny.com/about-me/</link>
-      <pubDate>Fri, 08 Dec 2017 01:27:54 +0300</pubDate>
+      <pubDate>Thu, 23 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/about-me/</guid>
-      <description>I’m Vitaly Velikodnyi (RU: Виталий Великодный), a programmer.</description>
+      <description>I’m Vitaly Velikodnyi (RU: Виталий Великодный), a programmer. Experienced designing and developing Golang based software applications &amp;amp; micro-services, likewise tests &amp;amp; DevOps for them.
+Qualified to start contributing from the first day.</description>
     </item>
     
   </channel>

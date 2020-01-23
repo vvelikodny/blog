@@ -1,6 +1,6 @@
 ---
 title: "My Everyday International Calls Buddy"
-date: 2019-12-08T01:04:54+03:00
+date: 2019-12-31T01:04:54+03:00
 draft: false
 tags: [project, management, time, tools, worldtimebuddy]
 ---
@@ -11,8 +11,9 @@ Many people ignore it to try to save some time today, but really don't know how 
 I think than the programmer more professional that the more hotkeys,
 scripts and different tools he uses to optimize his work.
 
-Project Manager should be well organized. As a **Project Manager** and **Software Developer** at **[Junte](https://junte.it)**. I work a lot with foreign customers that bring some nuances.
-Since you want to be competitive on the world IT market you should be super organized!
+Project Manager should be well organized. As a **Project Manager** and **Software Developer** at
+**[my agency](https://www.upwork.com/agencies/~01882f59742febecf7)**. I work a lot with foreign customers that bring some
+nuances. Since you want to be competitive on the world IT market you should be super organized!
 
 Assigning interviews, coordinating schedules and strict adherence to arrangements are everyday things to do. When client
 want to hire you or your team he know nothing about you. Therefore, a lot of here is based on trust and your every 
