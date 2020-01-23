@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello on Vitaly&#39;s Blog</title>
+    <title>Hello on Vitaly Velikodnyi&#39;s Blog</title>
     <link>https://velikodny.com/tags/hello/</link>
-    <description>Recent content in Hello on Vitaly&#39;s Blog</description>
+    <description>Recent content in Hello on Vitaly Velikodnyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
-    <copyright>Copyright &amp;copy; 2019 - Vitaly Velikodny</copyright>
+    <copyright>Copyright &amp;copy; 2020 - Vitaly Velikodny</copyright>
     <lastBuildDate>Sun, 08 Dec 2019 01:27:54 +0300</lastBuildDate>
     
 	<atom:link href="https://velikodny.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
