@@ -12,4 +12,5 @@ Qualified to start contributing from the first day. Experienced in full lifecycl
 led 3-4 devs. At the same time, I have developed my communication skills for working directly with the product owner.
 [OOS contributor](https://github.com/vvelikodny). Interested in meaningful projects.
 
+## Let's talk
 I'm open to talk, you could schedule [call with me](https://calendly.com/vvelikodny/)
