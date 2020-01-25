@@ -5,3 +5,7 @@
 .about img {
     width: 250px;
 }
+
+article a {
+    text-decoration-line: underline;
+}
