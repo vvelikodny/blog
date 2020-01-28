@@ -1,5 +1,5 @@
-baseurl = "https://velikodny.com/"
-title = "Vitaly Velikodnyi's Blog"
+baseurl = "https://velikodny.com"
+title = "Vitaly Velikodnyi - Senior Software Developer"
 copyright = "Copyright &copy; 2020 - Vitaly Velikodny"
 canonifyurls = true
 
@@ -27,7 +27,7 @@ publishDir = "docs"
     email = "vvelikodny@gmail.com"
 
 [params]
-    tagline = "Vitaly's Blog for Creative and Technical Writing"
+    tagline = "Vitaly Velikodnyi's Blog for Creative and Technical Writing"
     meta = "false"
     css = ["css/custom.css"]
 
