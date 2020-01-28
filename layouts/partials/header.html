@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ .Site.Title }}</title>{{ if .Description }}
+    <title>{{ if.Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{end}}</title>{{ if .Description }}
     <meta name="description" content="{{ .Description }}">
 {{ end }}
     <meta name="description" content="{{ .Site.Author.name }}">
