@@ -5,8 +5,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ .Site.Title }}</title>
-    <meta name="description" content="The HTML5 Herald">
+    <title>{{ .Site.Title }}</title>{{ if .Description }}
+    <meta name="description" content="{{ .Description }}">
+{{ end }}
+    <meta name="description" content="{{ .Site.Author.name }}">
     <meta name="author" content="{{ .Site.Author.name }}">
     {{ .Hugo.Generator }}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
@@ -32,7 +34,9 @@
     <div id="container">
         <header>
             <h1 class="title">
-                <a href="/about-me"><img src="{{ .Site.Author.avatar | relURL}}" class="avatar"/></a>
+                <a href="/about-me" title="About {{ .Site.Author.name }}">
+                    <img src="{{ .Site.Author.avatar | relURL}}" alt="{{ .Site.Author.name }}" class="avatar"/>
+                </a>
             </h1>
 
             <ul id="social-media">
