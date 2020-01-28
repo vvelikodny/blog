@@ -7,5 +7,5 @@
 }
 
 article a {
-    text-decoration-line: underline;
+    border-bottom: solid 1px;
 }
