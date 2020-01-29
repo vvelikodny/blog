@@ -12,4 +12,4 @@ Qualified to start contributing from the first day. Experienced in full lifecycl
 led 3-4 devs. [OOS contributor](https://github.com/vvelikodny). Interested in meaningful projects.
 
 ## Let's talk
-I'm open to talk, you could schedule [30-min call with me](https://calendly.com/vvelikodny/).
+I'm open to talk, you could schedule [call with me](https://calendly.com/vvelikodny/).

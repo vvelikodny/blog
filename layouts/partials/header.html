@@ -6,9 +6,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ if.Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{end}}</title>{{ if .Description }}
-    <meta name="description" content="{{ .Description }}">
-{{ end }}
+    <meta name="description" content="{{ .Description }}">{{else}}
     <meta name="description" content="{{ .Site.Author.name }}">
+   {{ end }}
     <meta name="author" content="{{ .Site.Author.name }}">
     {{ .Hugo.Generator }}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
