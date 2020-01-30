@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on Vitaly Velikodnyi - Senior Software Developer</title>
+    <link>https://velikodny.com/tags/github/</link>
+    <description>Recent content in github on Vitaly Velikodnyi - Senior Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
+    <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
+    <copyright>Copyright &amp;copy; 2020 - Vitaly Velikodny</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 01:27:54 +0300</lastBuildDate>
+    
+	<atom:link href="https://velikodny.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello from Uber</title>
+      <link>https://velikodny.com/posts/2020/first/</link>
+      <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/posts/2020/first/</guid>
+      <description>Today I&amp;rsquo;ve got the email from Uber{:target=&amp;rdquo;_blank&amp;rdquo;} Technical Sourcer
+  Email from Uber   I like the open-source community. You always could contribute to world-known projects.</description>
+    </item>
+    
+  </channel>
+</rss>

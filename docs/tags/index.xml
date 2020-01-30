@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vitaly Velikodnyi - Senior Software Developer</title>
@@ -14,7 +14,7 @@
     
     
     <item>
-      <title>About</title>
+      <title>about</title>
       <link>https://velikodny.com/tags/about/</link>
       <pubDate>Thu, 23 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
@@ -23,16 +23,7 @@
     </item>
     
     <item>
-      <title>Hello</title>
-      <link>https://velikodny.com/tags/hello/</link>
-      <pubDate>Sun, 08 Dec 2019 01:27:54 +0300</pubDate>
-      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://velikodny.com/tags/hello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Management</title>
+      <title>management</title>
       <link>https://velikodny.com/tags/management/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
@@ -41,7 +32,7 @@
     </item>
     
     <item>
-      <title>Project</title>
+      <title>project</title>
       <link>https://velikodny.com/tags/project/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
@@ -50,7 +41,7 @@
     </item>
     
     <item>
-      <title>Time</title>
+      <title>time</title>
       <link>https://velikodny.com/tags/time/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
@@ -59,7 +50,7 @@
     </item>
     
     <item>
-      <title>Tools</title>
+      <title>tools</title>
       <link>https://velikodny.com/tags/tools/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
@@ -68,11 +59,20 @@
     </item>
     
     <item>
-      <title>Worldtimebuddy</title>
+      <title>worldtimebuddy</title>
       <link>https://velikodny.com/tags/worldtimebuddy/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/tags/worldtimebuddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>https://velikodny.com/tags/hello/</link>
+      <pubDate>Sun, 08 Dec 2019 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/hello/</guid>
       <description></description>
     </item>
     
