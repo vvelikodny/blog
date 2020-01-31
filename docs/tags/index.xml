@@ -8,10 +8,55 @@
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
     <copyright>Copyright &amp;copy; 2020 - Vitaly Velikodny</copyright>
-    <lastBuildDate>Thu, 23 Jan 2020 01:27:54 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 01:27:54 +0300</lastBuildDate>
     
 	<atom:link href="https://velikodny.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>contributions</title>
+      <link>https://velikodny.com/tags/contributions/</link>
+      <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/contributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://velikodny.com/tags/github/</link>
+      <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://velikodny.com/tags/open-source/</link>
+      <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uber</title>
+      <link>https://velikodny.com/tags/uber/</link>
+      <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/uber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://velikodny.com/tags/work/</link>
+      <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/work/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>

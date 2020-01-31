@@ -47,3 +47,6 @@ publishDir = "docs"
     url = "/about-me"
     weight = 100
 
+
+[permalinks]
+  posts = "/:year/:month/:day/:title/"

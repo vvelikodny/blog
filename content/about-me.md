@@ -6,7 +6,7 @@ tags: [about]
 ---
 
 I’m Vitaly Velikodnyi (RU: Виталий Великодный), a programmer. Experienced designing and developing Golang based 
-software applications & micro-services, likewise tests & DevOps for them.
+software applications & micro-services, likewise tests & DevOps.
 
 Qualified to start contributing from the first day. Experienced in full lifecycle development, from idea to delivery, 
 led 3-4 devs. [OOS contributor](https://github.com/vvelikodny). Interested in meaningful projects.

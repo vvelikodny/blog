@@ -8,10 +8,19 @@
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
     <copyright>Copyright &amp;copy; 2020 - Vitaly Velikodny</copyright>
-    <lastBuildDate>Thu, 23 Jan 2020 01:27:54 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 01:27:54 +0300</lastBuildDate>
     
 	<atom:link href="https://velikodny.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Email from Uber</title>
+      <link>https://velikodny.com/2020/01/30/email-from-uber/</link>
+      <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/2020/01/30/email-from-uber/</guid>
+      <description>Sometimes interesting things happens. It was about two years ago I worked on the project with Cadence and contributed to uber/cadence open-source project in Github. Today I&amp;rsquo;ve got the email from Uber Technical Sourcer:</description>
+    </item>
     
     <item>
       <title>About me</title>
@@ -19,25 +28,25 @@
       <pubDate>Thu, 23 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
       <guid>https://velikodny.com/about-me/</guid>
-      <description>I’m Vitaly Velikodnyi (RU: Виталий Великодный), a programmer. Experienced designing and developing Golang based software applications &amp;amp; micro-services, likewise tests &amp;amp; DevOps for them.
-Qualified to start contributing from the first day.</description>
+      <description>I’m Vitaly Velikodnyi (RU: Виталий Великодный), a programmer. Experienced designing and developing Golang based software applications &amp;amp; micro-services, likewise tests &amp;amp; DevOps.
+Qualified to start contributing from the first day. Experienced in full lifecycle development, from idea to delivery, led 3-4 devs.</description>
     </item>
     
     <item>
       <title>My Everyday International Calls Buddy</title>
-      <link>https://velikodny.com/posts/how-to-plan-the-meetings/</link>
+      <link>https://velikodny.com/2019/12/31/my-everyday-international-calls-buddy/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://velikodny.com/posts/how-to-plan-the-meetings/</guid>
+      <guid>https://velikodny.com/2019/12/31/my-everyday-international-calls-buddy/</guid>
       <description>Project Management is a huge amount of tasks from super interesting to routine ones. To be effective, I always try to optimize my workflow, and you should. Many people ignore it to try to save some time today, but really don&amp;rsquo;t know how much time and energy they will save tomorrow.</description>
     </item>
     
     <item>
       <title>Hello, World!</title>
-      <link>https://velikodny.com/posts/hello-world/</link>
+      <link>https://velikodny.com/2019/12/08/hello-world/</link>
       <pubDate>Sun, 08 Dec 2019 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://velikodny.com/posts/hello-world/</guid>
+      <guid>https://velikodny.com/2019/12/08/hello-world/</guid>
       <description>Hello! I&amp;rsquo;m Vitaly. Software Developer from Russia, Gopher.
 It&amp;rsquo;s my first post here just to say &amp;ldquo;hello&amp;rdquo; to all of you guys: human beings and robots! I will write here for a human being, but if you are a robot you are welcome too.</description>
     </item>

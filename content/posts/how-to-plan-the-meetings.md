@@ -2,7 +2,7 @@
 title: "My Everyday International Calls Buddy"
 date: 2019-12-31T01:04:54+03:00
 draft: false
-tags: [project, management, time, tools, worldtimebuddy]
+tags: [work, project, management, time, tools, worldtimebuddy]
 ---
 
 Project Management is a huge amount of tasks from super interesting to routine ones.
