@@ -6,7 +6,7 @@ canonifyurls = true
 disqusShortname = "vvelikodny"
 
 theme = "kiera"
-paginate = 3
+paginate = 5
 
 summaryLength = 30
 enableEmoji = true

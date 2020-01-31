@@ -13,7 +13,7 @@ Technical Sourcer:
 
 That's why I like the open-source community. You always could help and contribute to open-source projects as well as get
 something back from community members: feedback, knowledge or even offers, etc. It’s awesome.
-Definitely, continue my open-source journey!
+Definitely, continue my open-source journey! :heart:
 
-I noticed, Uber staff use cool GIF for email signature, it looks like:
+P.S. Uber staff use cool GIF for email signature, it looks like:
 {{< figure src="/img/uber-email-image.gif" class="uber-image" >}}
