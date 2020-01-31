@@ -46,6 +46,10 @@
                 <li><a href="mailto:{{ .Site.Author.email }}" title="Email me any time"><i class="fa fa-envelope-o fa-lg" aria-hidden="true"></i></a></li>
                 {{ end }}
 
+                {{ if .Site.Author.linkedin }}
+                <li><a href="https://www.linkedin.com/in/{{ .Site.Author.linkedin }}"><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+                {{ end }}
+
                 {{ if .Site.Author.github }}
                 <li><a href="https://github.com/{{ .Site.Author.github }}"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a></li>
                 {{ end }}
@@ -60,10 +64,6 @@
 
                 {{ if .Site.Author.twitter }}
                 <li><a href="https://twitter.com/{{ .Site.Author.twitter }}"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
-                {{ end }}
-
-                {{ if .Site.Author.linkedin }}
-                <li><a href="https://www.linkedin.com/in/{{ .Site.Author.linkedin }}"><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
                 {{ end }}
 
                 {{ if .Site.Author.facebook }}
