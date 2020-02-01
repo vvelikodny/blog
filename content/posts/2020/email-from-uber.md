@@ -16,5 +16,5 @@ That's why I like the open-source community. You could always help and contribut
 something back from community members: feedback, knowledge or even offers, etc. It’s awesome. I will definitely continue 
 my open-source journey! :heart:
 
-P.S. Uber staff use cool GIF for email signature, it looks like:
+P.S. Uber staff use cool GIF for email signature, such as:
 {{< figure src="/img/uber-email-image.gif" class="uber-image" >}}
