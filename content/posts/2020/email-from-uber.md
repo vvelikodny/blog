@@ -5,9 +5,9 @@ draft: false
 tags: [github,uber,contributions,open-source,work]
 ---
 
-Sometimes interesting things happens. It was about two years ago I worked on the project with Cadence framework and
-contributed to [uber/cadence](https://github.com/uber/cadence) open-source project on Github. Today I've got the email
-from Uber Technical Sourcer:
+Sometimes interesting things happen. It was about two years ago I worked on the project with Cadence framework and
+contributed to [uber/cadence](https://github.com/uber/cadence) open-source project on Github. Today I've received the 
+email from Uber Technical Sourcer:
 
 {{< figure src="/img/uber_hello_from_github.png" title="Email from Uber" >}}
 
