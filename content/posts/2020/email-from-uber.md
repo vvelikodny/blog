@@ -11,9 +11,10 @@ email from Uber Technical Sourcer:
 
 {{< figure src="/img/uber_hello_from_github.png" title="Email from Uber" >}}
 
-It shows possible cases how tech companies looking for new team members. Uber itself contributes to open-source a lot.
+I've been inspired by approach how tech companies looking for new team members. Uber itself contributes to open-source 
+[a lot](https://github.com/uber) and have sexy libraries.
 That's why I like the open-source community. You could always help and contribute to open-source projects as well as get 
-something back from community members: feedback, knowledge or even offers, etc. It’s awesome. I will definitely continue 
+something back from community members: feedback, knowledge or opportunities, etc. It’s awesome. I will definitely continue 
 my [open-source journey](https://github.com/vvelikodny)! :heart:
 
 P.S. Uber staff use pretty GIF for email signature, such as:
