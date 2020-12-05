@@ -1,6 +1,6 @@
 baseurl = "https://velikodny.com"
-title = "Vitaly Velikodnyi - Senior Software Developer"
-copyright = "Copyright &copy; 2020 - <a href='/'>Vitaly Velikodny</a>"
+title = "Vitaly Velikodnyi - Senior Software Engineer"
+copyright = "Copyright &copy; 2020 - <a href='/'>Vitaly Velikodnyi</a>"
 canonifyurls = true
 
 disqusShortname = "vvelikodny"
@@ -16,7 +16,7 @@ publishDir = "docs"
 
 [author]
     name = "Vitaly Velikodnyi"
-    avatar = "/img/avatar3.jpg"
+    avatar = "/img/avatar.jpg"
     github = "vvelikodny"
     gitlab = "vvelikodny"
     linkedin = "vvelikodny"
@@ -34,19 +34,21 @@ publishDir = "docs"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/"
-    weight = -1
-
-  [[menu.main]]
     identifier = "about-me"
     name = "About me"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about-me"
-    weight = 100
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = 1
+
+
 
 
 [permalinks]
-  posts = "/:year/:month/:day/:title/"
+  posts = "/:title/"

@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Vitaly Velikodnyi - Senior Software Developer</title>
+    <title>Categories on Vitaly Velikodnyi - Senior Software Engineer</title>
     <link>https://velikodny.com/categories/</link>
-    <description>Recent content in Categories on Vitaly Velikodnyi - Senior Software Developer</description>
+    <description>Recent content in Categories on Vitaly Velikodnyi - Senior Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
-    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://velikodny.com/&#39;&gt;Vitaly Velikodny&lt;/a&gt;</copyright>
-    
-	<atom:link href="https://velikodny.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright><atom:link href="https://velikodny.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

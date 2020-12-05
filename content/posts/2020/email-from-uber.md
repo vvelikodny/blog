@@ -9,7 +9,7 @@ Sometimes interesting things happen. It was about two years ago I worked on a pr
 contributed to [uber/cadence](https://github.com/uber/cadence) open-source project on Github. Today I've received the 
 email from Uber Technical Sourcer:
 
-{{< figure src="/img/uber_hello_from_github.png" title="Email from Uber" >}}
+{{< figure src="/img/uber-hello-from-github.png" title="Email from Uber" >}}
 
 I've been inspired by approach how tech companies looking for new team members. Uber itself contributes to open-source 
 [a lot](https://github.com/uber) and have sexy libraries.

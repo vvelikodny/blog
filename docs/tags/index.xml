@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Vitaly Velikodnyi - Senior Software Developer</title>
+    <title>Tags on Vitaly Velikodnyi - Senior Software Engineer</title>
     <link>https://velikodny.com/tags/</link>
-    <description>Recent content in Tags on Vitaly Velikodnyi - Senior Software Developer</description>
+    <description>Recent content in Tags on Vitaly Velikodnyi - Senior Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
-    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://velikodny.com/&#39;&gt;Vitaly Velikodny&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 30 Jan 2020 01:27:54 +0300</lastBuildDate>
+    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 05 Dec 2020 09:27:54 +0300</lastBuildDate><atom:link href="https://velikodny.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CKAD</title>
+      <link>https://velikodny.com/tags/ckad/</link>
+      <pubDate>Sat, 05 Dec 2020 09:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/ckad/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://velikodny.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exam</title>
+      <link>https://velikodny.com/tags/exam/</link>
+      <pubDate>Sat, 05 Dec 2020 09:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/exam/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>kubernetes</title>
+      <link>https://velikodny.com/tags/kubernetes/</link>
+      <pubDate>Sat, 05 Dec 2020 09:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>https://velikodny.com/tags/learning/</link>
+      <pubDate>Sat, 05 Dec 2020 09:27:54 +0300</pubDate>
+      <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
+      <guid>https://velikodny.com/tags/learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>contributions</title>
