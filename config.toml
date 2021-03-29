@@ -1,4 +1,4 @@
-baseurl = "https://velikodny.com"
+baseurl = "https://blog.velikodny.com"
 title = "Vitaly Velikodnyi - Senior Software Engineer"
 copyright = "Copyright &copy; 2020 - <a href='/'>Vitaly Velikodnyi</a>"
 canonifyurls = true

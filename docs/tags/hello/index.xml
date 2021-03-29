@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hello on Vitaly Velikodnyi - Senior Software Engineer</title>
-    <link>https://velikodny.com/tags/hello/</link>
+    <link>https://blog.velikodny.com/tags/hello/</link>
     <description>Recent content in hello on Vitaly Velikodnyi - Senior Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
-    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 08 Dec 2019 01:27:54 +0300</lastBuildDate><atom:link href="https://velikodny.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://blog.velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 08 Dec 2019 01:27:54 +0300</lastBuildDate><atom:link href="https://blog.velikodny.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
-      <link>https://velikodny.com/hello-world/</link>
+      <link>https://blog.velikodny.com/hello-world/</link>
       <pubDate>Sun, 08 Dec 2019 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://velikodny.com/hello-world/</guid>
+      <guid>https://blog.velikodny.com/hello-world/</guid>
       <description>Hello! I&amp;rsquo;m Vitaly. Software Engineer from Russia, Gopher.
 It&amp;rsquo;s my first post here just to say &amp;ldquo;hello&amp;rdquo; to all of you guys: human beings and robots! I will write here for a human being, but if you are a robot you are welcome too.</description>
     </item>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vitaly Velikodnyi - Senior Software Engineer</title>
-    <link>https://velikodny.com/categories/</link>
+    <link>https://blog.velikodny.com/categories/</link>
     <description>Recent content in Categories on Vitaly Velikodnyi - Senior Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
-    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright><atom:link href="https://velikodny.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://blog.velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright><atom:link href="https://blog.velikodny.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

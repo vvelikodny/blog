@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uber on Vitaly Velikodnyi - Senior Software Engineer</title>
-    <link>https://velikodny.com/tags/uber/</link>
+    <link>https://blog.velikodny.com/tags/uber/</link>
     <description>Recent content in uber on Vitaly Velikodnyi - Senior Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
-    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 30 Jan 2020 01:27:54 +0300</lastBuildDate><atom:link href="https://velikodny.com/tags/uber/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://blog.velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 01:27:54 +0300</lastBuildDate><atom:link href="https://blog.velikodny.com/tags/uber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Email from Uber</title>
-      <link>https://velikodny.com/email-from-uber/</link>
+      <link>https://blog.velikodny.com/email-from-uber/</link>
       <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://velikodny.com/email-from-uber/</guid>
+      <guid>https://blog.velikodny.com/email-from-uber/</guid>
       <description>Sometimes interesting things happen. It was about two years ago I worked on a project with Cadence framework and contributed to uber/cadence open-source project on Github. Today I&amp;rsquo;ve received the email from Uber Technical Sourcer:</description>
     </item>
     
