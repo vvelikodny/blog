@@ -2,163 +2,163 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vitaly Velikodnyi - Senior Software Engineer</title>
-    <link>https://blog.velikodny.com/tags/</link>
+    <link>https://velikodny.com/tags/</link>
     <description>Recent content in Tags on Vitaly Velikodnyi - Senior Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>vvelikodny@gmail.com (Vitaly Velikodnyi)</managingEditor>
     <webMaster>vvelikodny@gmail.com (Vitaly Velikodnyi)</webMaster>
-    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://blog.velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 09:27:54 +0300</lastBuildDate><atom:link href="https://blog.velikodny.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 - &lt;a href=&#39;https://velikodny.com/&#39;&gt;Vitaly Velikodnyi&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 09:27:54 +0300</lastBuildDate><atom:link href="https://velikodny.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CKAD</title>
-      <link>https://blog.velikodny.com/tags/ckad/</link>
+      <link>https://velikodny.com/tags/ckad/</link>
       <pubDate>Tue, 01 Dec 2020 09:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/ckad/</guid>
+      <guid>https://velikodny.com/tags/ckad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>exam</title>
-      <link>https://blog.velikodny.com/tags/exam/</link>
+      <link>https://velikodny.com/tags/exam/</link>
       <pubDate>Tue, 01 Dec 2020 09:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/exam/</guid>
+      <guid>https://velikodny.com/tags/exam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hard-skills</title>
-      <link>https://blog.velikodny.com/tags/hard-skills/</link>
+      <link>https://velikodny.com/tags/hard-skills/</link>
       <pubDate>Tue, 01 Dec 2020 09:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/hard-skills/</guid>
+      <guid>https://velikodny.com/tags/hard-skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kubernetes</title>
-      <link>https://blog.velikodny.com/tags/kubernetes/</link>
+      <link>https://velikodny.com/tags/kubernetes/</link>
       <pubDate>Tue, 01 Dec 2020 09:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/kubernetes/</guid>
+      <guid>https://velikodny.com/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>learning</title>
-      <link>https://blog.velikodny.com/tags/learning/</link>
+      <link>https://velikodny.com/tags/learning/</link>
       <pubDate>Tue, 01 Dec 2020 09:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/learning/</guid>
+      <guid>https://velikodny.com/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contributions</title>
-      <link>https://blog.velikodny.com/tags/contributions/</link>
+      <link>https://velikodny.com/tags/contributions/</link>
       <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/contributions/</guid>
+      <guid>https://velikodny.com/tags/contributions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>https://blog.velikodny.com/tags/github/</link>
+      <link>https://velikodny.com/tags/github/</link>
       <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/github/</guid>
+      <guid>https://velikodny.com/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open-source</title>
-      <link>https://blog.velikodny.com/tags/open-source/</link>
+      <link>https://velikodny.com/tags/open-source/</link>
       <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/open-source/</guid>
+      <guid>https://velikodny.com/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uber</title>
-      <link>https://blog.velikodny.com/tags/uber/</link>
+      <link>https://velikodny.com/tags/uber/</link>
       <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/uber/</guid>
+      <guid>https://velikodny.com/tags/uber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>https://blog.velikodny.com/tags/work/</link>
+      <link>https://velikodny.com/tags/work/</link>
       <pubDate>Thu, 30 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/work/</guid>
+      <guid>https://velikodny.com/tags/work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://blog.velikodny.com/tags/about/</link>
+      <link>https://velikodny.com/tags/about/</link>
       <pubDate>Thu, 23 Jan 2020 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/about/</guid>
+      <guid>https://velikodny.com/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>management</title>
-      <link>https://blog.velikodny.com/tags/management/</link>
+      <link>https://velikodny.com/tags/management/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/management/</guid>
+      <guid>https://velikodny.com/tags/management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>https://blog.velikodny.com/tags/project/</link>
+      <link>https://velikodny.com/tags/project/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/project/</guid>
+      <guid>https://velikodny.com/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>time</title>
-      <link>https://blog.velikodny.com/tags/time/</link>
+      <link>https://velikodny.com/tags/time/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/time/</guid>
+      <guid>https://velikodny.com/tags/time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tools</title>
-      <link>https://blog.velikodny.com/tags/tools/</link>
+      <link>https://velikodny.com/tags/tools/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/tools/</guid>
+      <guid>https://velikodny.com/tags/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>worldtimebuddy</title>
-      <link>https://blog.velikodny.com/tags/worldtimebuddy/</link>
+      <link>https://velikodny.com/tags/worldtimebuddy/</link>
       <pubDate>Tue, 31 Dec 2019 01:04:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/worldtimebuddy/</guid>
+      <guid>https://velikodny.com/tags/worldtimebuddy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hello</title>
-      <link>https://blog.velikodny.com/tags/hello/</link>
+      <link>https://velikodny.com/tags/hello/</link>
       <pubDate>Sun, 08 Dec 2019 01:27:54 +0300</pubDate>
       <author>vvelikodny@gmail.com (Vitaly Velikodnyi)</author>
-      <guid>https://blog.velikodny.com/tags/hello/</guid>
+      <guid>https://velikodny.com/tags/hello/</guid>
       <description></description>
     </item>
     
